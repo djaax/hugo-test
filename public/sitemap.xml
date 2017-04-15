@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/post/zero-to-one/</loc>
+    <lastmod>2017-04-13T11:09:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
