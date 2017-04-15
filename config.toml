@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "de-de"
+title = "Dustin's Test"
+
+[Params]
+	Author = "Dustin Jaacks"
