@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dustin&#39;s Test </title>
+    <title>Posts on Dustin&#39;s Test</title>
     <link>http://example.org/post/</link>
-    <language>en-us</language>
-    <author>Dustin Jaacks</author>
-    <rights>(C) 2017</rights>
-    <updated>2017-04-13 11:09:24 &#43;0200 CEST</updated>
-
+    <description>Recent content in Posts on Dustin&#39;s Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 13 Apr 2017 11:09:24 +0200</lastBuildDate>
     
-      
-        <item>
-          <title>good to great</title>
-          <link>http://example.org/post/good-to-great/</link>
-          <pubDate>Thu, 13 Apr 2017 11:09:24 CEST</pubDate>
-          <author>Dustin Jaacks</author>
-          <guid>http://example.org/post/good-to-great/</guid>
-          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
-</description>
-        </item>
-      
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
-
+    
+    <item>
+      <title>good to great</title>
+      <link>http://example.org/post/good-to-great/</link>
+      <pubDate>Thu, 13 Apr 2017 11:09:24 +0200</pubDate>
+      
+      <guid>http://example.org/post/good-to-great/</guid>
+      <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.</description>
+    </item>
+    
   </channel>
 </rss>
