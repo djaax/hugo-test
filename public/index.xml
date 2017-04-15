@@ -6,10 +6,28 @@
     <description>Recent content on Dustin&#39;s Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 13 Apr 2017 11:09:24 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2017 11:09:24 +0200</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test</title>
+      <link>http://example.org/post/test/</link>
+      <pubDate>Sat, 15 Apr 2017 11:09:24 +0200</pubDate>
+      
+      <guid>http://example.org/post/test/</guid>
+      <description>This is a Test Article. Let&amp;rsquo;s see what happens.</description>
+    </item>
+    
+    <item>
+      <title>zero to one</title>
+      <link>http://example.org/post/zero-to-one/</link>
+      <pubDate>Sat, 15 Apr 2017 11:09:24 +0200</pubDate>
+      
+      <guid>http://example.org/post/zero-to-one/</guid>
+      <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.</description>
+    </item>
     
     <item>
       <title>good to great</title>
@@ -17,15 +35,6 @@
       <pubDate>Thu, 13 Apr 2017 11:09:24 +0200</pubDate>
       
       <guid>http://example.org/post/good-to-great/</guid>
-      <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.</description>
-    </item>
-    
-    <item>
-      <title>good to great</title>
-      <link>http://example.org/post/zero-to-one/</link>
-      <pubDate>Thu, 13 Apr 2017 11:09:24 +0200</pubDate>
-      
-      <guid>http://example.org/post/zero-to-one/</guid>
       <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.</description>
     </item>
     

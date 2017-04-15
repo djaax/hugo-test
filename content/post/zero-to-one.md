@@ -1,7 +1,7 @@
 +++
-date = "2017-04-13T11:09:24+02:00"
+date = "2017-04-15T11:09:24+02:00"
 draft = false
-title = "good to great"
+title = "zero to one"
 image = "good-to-great.jpg"
 +++
 
