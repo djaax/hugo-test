@@ -17,6 +17,10 @@
   </url>
   
   <url>
+    <loc>http://example.org/post/test-2/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>

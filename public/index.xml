@@ -38,5 +38,15 @@
       <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://example.org/post/test-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/test-2/</guid>
+      <description>+++ date = &amp;ldquo;2017-04-15T11:09:24+02:00&amp;rdquo; draft = false title = &amp;ldquo;test 2&amp;rdquo; +++
+This is a Test Article. Let&amp;rsquo;s see what happens. 2</description>
+    </item>
+    
   </channel>
 </rss>
